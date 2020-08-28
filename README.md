@@ -16,3 +16,4 @@ As there is very little information about this airstrip and was more of a reques
 * Multiple static aircraft
 * Multiple static objects such as buildings, cars, fences and more.
 * Multiple lamp posts to light up the area with buildings at night.
+* Windsock
