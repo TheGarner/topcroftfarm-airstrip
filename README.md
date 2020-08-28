@@ -9,7 +9,7 @@ Unzip the file "thegarner-airport-eg48-topcroftfarmairstrip.zip" to your Microso
 
 # Features
 
-As there is very little information about this airstrip and was more of a request, I've tried to add buildings and objects that looks like it would fit in within this type of airstrip. Also tried to match it the best I could using top down Google Maps imagary. 
+As there is very little information about this airstrip and was more of a request, I've tried to add buildings and objects that looks like it would fit in within this type of airstrip. Also tried to match it the best I could using top down Google Maps imagery. 
 
 * Runway added with no number markings (They are no markings in the real world on this strip)
 * GA Parking Spot
