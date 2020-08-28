@@ -1,6 +1,6 @@
 # Topcroft Farm Airstrip
 
-Topcroft Farm Airstrip is private airstrip located in Hardwich, Norfolk. Right next door to the old RAF Hardwick base (United Kingdom). This download will allow the airfield to be selectable on the map.
+Topcroft Farm Airstrip is private airstrip located in Hardwich, Norfolk (United Kingdom), right next door to the old RAF Hardwick base. This download will allow the airfield to be selectable on the map.
 
 Use the code EG48 to be able to locate the airport on the Microsoft Flight Simulator map.
 
