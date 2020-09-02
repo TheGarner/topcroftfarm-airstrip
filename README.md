@@ -17,3 +17,7 @@ As there is very little information about this airstrip and was more of a reques
 * Multiple static objects such as buildings, cars, fences and more.
 * Multiple lamp posts to light up the area with buildings at night.
 * Windsock
+
+# Version Changelog
+v1.1 (Released 2nd Sept 2020)
+* Applied fix to windsock and reduced/replaced static aircraft with generic static aircraft to improve performance and a workaround for the aircraft duplication issue if you choose the same plane that is parked at the airport. If you have the airfield already installed and do not care for these changes then you can ignore this update.
